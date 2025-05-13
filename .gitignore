@@ -3,3 +3,5 @@ node_modules/
 venv/
 .idea/
 .DS_Store
+
+output.txt
